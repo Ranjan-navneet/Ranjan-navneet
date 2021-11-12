@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Navneet Ranjan
 - 👀 I’m interested in C/C++,Android development.
 - 🌱 I’m currently learning Android development
-- 💞️ I’m looking to collaborate on android indrustries.
+- 💞️ I’m looking to collaborate with android indrustries.
 - 📫 How to reach me- mail.navneetranjan@gmail.com or https://www.linkedin.com/in/navneet-ranjan-9590a81b7/
 
 <!---
