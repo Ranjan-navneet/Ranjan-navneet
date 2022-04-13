@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Navneet Ranjan
-- 👀 I’m interested in C/C++,Android development.
-- 🌱 I’m currently learning Android development
-- 💞️ I’m looking to collaborate with android indrustries.
-- 📫 How to reach me- mail.navneetranjan@gmail.com or https://www.linkedin.com/in/navneet-ranjan-9590a81b7/
-
-<!---
-Ranjan-navneet/Ranjan-navneet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Myself Navneet Ranjan
+- Student of Srm University,chennai
+- knowledge in  C/C++
+- Currently learning python
+- Completed courses- Android Development, Web Development from MyCaptain Platform
+- Find me at mail.navneetranjan@gmail.com or https://www.linkedin.com/in/navneet-ranjan-9590a81b7/
