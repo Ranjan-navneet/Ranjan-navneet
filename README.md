@@ -1,6 +1,4 @@
 - Myself Navneet Ranjan
 - Student of Srm University,chennai
-- knowledge in  C/C++,CSS,BOOTSTRAP,HTML,CSS,JAVA SCRIPT
-- Currently learning Full stack development.
-- Completed courses- Android Development, Web Development from MyCaptain Platform
+- knowledge in  C/C++, CSS ,BOOTSTRAP, HTML, CSS, JAVA SCRIPT, REACT JS, SQL
 - Find me at mail.navneetranjan@gmail.com or https://www.linkedin.com/in/navneet-ranjan-9590a81b7/
