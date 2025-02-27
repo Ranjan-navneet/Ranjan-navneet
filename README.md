@@ -7,7 +7,7 @@
 </p>
 
 ## 🚀 About Me
-I am currently working as a **Software Engineer - IT & Digital Innovation** at **Cholamandalam Investment and Finance Company Ltd., Chennai**. Passionate about real-time communication, backend development, and cloud technologies, I enjoy building robust systems that solve real-world problems.
+I am currently working as a **Software Engineer - IT & Digital Innovation** at **Cholamandalam Investment and Finance Company Ltd., Chennai**
 
 - 📫 Reach me at **[mail.navneetranjan@gmail.com](mailto:mail.navneetranjan@gmail.com)**.
 
